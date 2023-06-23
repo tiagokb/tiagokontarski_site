@@ -14,5 +14,5 @@ Este repositório contém principalmente o código estático do site. Se você e
 
 ## Contato
 
-Para entrar em contato comigo ou saber mais sobre o meu trabalho, você pode visitar meu site [aqui](https://tiago-kontarski-site.web.app) ou me enviar um e-mail para [tiagokontarski.dev@gmail.com], ou entrar em contato pelo WhatsApp no número [+55 47997180559]. 
+Para entrar em contato comigo ou saber mais sobre o meu trabalho, você pode visitar meu site [aqui](https://tiago-kontarski-site.web.app) ou me enviar um e-mail para tiagokontarski.dev@gmail.com, ou entrar em contato pelo WhatsApp no número +55 47997180559. 
 
