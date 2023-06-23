@@ -12,10 +12,6 @@ Bem-vindo ao repositório do meu site de currículo online! Este site serve como
 
 Este repositório contém principalmente o código estático do site. Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma "Issue" ou enviar uma "Pull Request" com as alterações propostas.
 
-## Licença
-
-O conteúdo deste repositório é licenciado sob a licença [MIT](LICENSE), o que significa que você pode reutilizá-lo ou adaptá-lo para suas próprias necessidades, desde que atribua os devidos créditos.
-
 ## Contato
 
 Para entrar em contato comigo ou saber mais sobre o meu trabalho, você pode visitar meu site [aqui](https://tiago-kontarski-site.web.app) ou me enviar um e-mail para [tiagokontarski.dev@gmail.com], ou entrar em contato pelo WhatsApp no número [+55 47997180559]. 
